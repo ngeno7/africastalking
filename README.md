@@ -1,4 +1,4 @@
-# Very short description of the package
+# Messaging Package Using Africa's Talking Gateway
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ngeno7/astalking.svg?style=flat-square)](https://packagist.org/packages/ngeno7/astalking)
 [![Build Status](https://img.shields.io/travis/ngeno7/astalking/master.svg?style=flat-square)](https://travis-ci.org/ngeno7/astalking)
@@ -59,7 +59,3 @@ If you discover any security related issues, please email hillaryngeno7@gmail.co
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-## Laravel Package Boilerplate
-
-This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).
