@@ -1,9 +1,9 @@
 {
     "name": "ngeno7/astalking",
-    "description": "php laravel africa's talking helper package for sending messages",
+    "description": "Helper package for sending messaging using Africa's talking gateway",
     "keywords": [
         "ngeno7",
-        "astalking"
+        "Africa's Talking", "SMS", "Messaging"
     ],
     "homepage": "https://github.com/ngeno7/astalking",
     "license": "MIT",
