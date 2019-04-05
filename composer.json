@@ -1,0 +1,58 @@
+{
+    "name": "ngeno7/astalking",
+    "description": "php laravel africa stalking helper package",
+    "keywords": [
+        "ngeno7",
+        "astalking"
+    ],
+    "homepage": "https://github.com/ngeno7/astalking",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "hillary ngeno",
+            "email": "hillaryngeno7@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "africastalking/africastalking": "^2.1",
+        "illuminate/support": "5.8.*"
+    },
+    "require-dev": {
+        "orchestra/testbench": "3.8.*",
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ngeno7\\ASTalking\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Ngeno7\\ASTalking\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ngeno7\\ASTalking\\ASTalkingServiceProvider"
+            ],
+            "aliases": {
+                "ASTalking": "Ngeno7\\ASTalking\\ASTalkingFacade"
+            }
+        },
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
