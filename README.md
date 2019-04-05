@@ -22,17 +22,17 @@ Publish the config file:
 ``` bash
 
     php artisan vendor:publish
-
- ### Sample Usage
+```
+### Sample Usage in application
 
 ``` php
 
     ASTalking::message('hello')->to(['254712345678', '254712345678'])->send();
 
     // or
-    
-    app('astalking')->message('hello')->to(['254712345678', '254712345678'])->send();
 
+    app('astalking')->message('hello')->to(['254712345678', '254712345678'])->send();
+```
 ### Testing
 
 ``` bash
