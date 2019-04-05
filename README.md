@@ -5,7 +5,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/ngeno7/astalking.svg?style=flat-square)](https://scrutinizer-ci.com/g/ngeno7/astalking)
 [![Total Downloads](https://img.shields.io/packagist/dt/ngeno7/astalking.svg?style=flat-square)](https://packagist.org/packages/ngeno7/astalking)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+This a laravel package for sending messages using the Africa's Talking gateway
 
 ## Installation
 
@@ -17,9 +17,21 @@ composer require ngeno7/astalking
 
 ## Usage
 
+Publish the config file:
+
+``` bash
+
+    php artisan vendor:publish
+
+ ### Sample Usage
+
 ``` php
-// Usage description here
-```
+
+    ASTalking::message('hello')->to(['254712345678', '254712345678'])->send();
+
+    // or
+    
+    app('astalking')->message('hello')->to(['254712345678', '254712345678'])->send();
 
 ### Testing
 
