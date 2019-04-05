@@ -24,7 +24,7 @@ Publish the config file:
     php artisan vendor:publish
 ```
 
-    Update the details in the config/astalking.php to match your account details.
+Update the details in the config/astalking.php to match your account details.
 
 ### Sample Usage in application
 
