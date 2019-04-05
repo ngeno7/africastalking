@@ -5,6 +5,9 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/ngeno7/astalking.svg?style=flat-square)](https://scrutinizer-ci.com/g/ngeno7/astalking)
 [![Total Downloads](https://img.shields.io/packagist/dt/ngeno7/astalking.svg?style=flat-square)](https://packagist.org/packages/ngeno7/astalking)
 
+![PHP from Packagist](https://img.shields.io/packagist/php-v/ngeno7/astalking.svg)
+
+
 This a laravel package for sending messages using the Africa's Talking gateway
 
 ## Installation
@@ -23,7 +26,6 @@ Publish the config file:
 
     php artisan vendor:publish
 ```
-
 Update the details in the config/astalking.php to match your account details.
 
 ### Sample Usage in application
