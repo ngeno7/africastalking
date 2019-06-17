@@ -3,7 +3,7 @@
     "description": "Helper package for sending messaging using Africa's talking gateway",
     "keywords": [
         "ngeno7",
-        "Africa's Talking", "SMS", "Messaging"
+        "AfricasTalking", "SMS", "Messaging"
     ],
     "homepage": "https://github.com/ngeno7/astalking",
     "license": "MIT",
