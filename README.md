@@ -1,6 +1,6 @@
 # Messaging Package Using Africa's Talking Gateway
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/ngeno7/africastalking.svg?style=flat-square)](https://packagist.org/packages/ngeno7/africastalking)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ngeno7/astalking.svg?style=flat-square)](https://packagist.org/packages/ngeno7/astalking)
 [![Build Status](https://img.shields.io/travis/ngeno7/africastalking/master.svg?style=flat-square)](https://travis-ci.org/ngeno7/africastalking)
 [![Quality Score](https://img.shields.io/scrutinizer/g/ngeno7/africastalking.svg?style=flat-square)](https://scrutinizer-ci.com/g/ngeno7/africastalking)
 [![Total Downloads](https://img.shields.io/packagist/dt/ngeno7/astalking.svg?style=flat-square)](https://packagist.org/packages/ngeno7/astalking)
