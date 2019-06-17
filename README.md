@@ -2,10 +2,10 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ngeno7/africastalking.svg?style=flat-square)](https://packagist.org/packages/ngeno7/africastalking)
 [![Build Status](https://img.shields.io/travis/ngeno7/africastalking/master.svg?style=flat-square)](https://travis-ci.org/ngeno7/africastalking)
-[![Quality Score](https://img.shields.io/scrutinizer/g/ngeno7/astalking.svg?style=flat-square)](https://scrutinizer-ci.com/g/ngeno7/africastalking)
-[![Total Downloads](https://img.shields.io/packagist/dt/ngeno7/astalking.svg?style=flat-square)](https://packagist.org/packages/ngeno7/africastalking)
+[![Quality Score](https://img.shields.io/scrutinizer/g/ngeno7/africastalking.svg?style=flat-square)](https://scrutinizer-ci.com/g/ngeno7/africastalking)
+[![Total Downloads](https://img.shields.io/packagist/dt/ngeno7/africastalking.svg?style=flat-square)](https://packagist.org/packages/ngeno7/africastalking)
 
-![PHP from Packagist](https://img.shields.io/packagist/php-v/ngeno7/africastalking.svg)
+![PHP from Packagist](https://img.shields.io/packagist/php-v/ngeno7/astalking.svg)
 
 
 This a laravel package for sending messages using the Africa's Talking gateway
